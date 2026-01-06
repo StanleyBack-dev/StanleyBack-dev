@@ -39,9 +39,21 @@ When I'm not coding, you can find me diving into sports stats, playing guitar or
 
 ---
 
-### 📊 **GitHub Stats**
+### 💻 **Recent Projects**
 
-![Stanley Rodrigues's GitHub chart](https://ghchart.rshah.org/StanleyBack-dev)
+#### [Fit Pulse](https://fitpulseio.com.br)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONwebtokens&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+A comprehensive health tracking app that allows users to monitor their **BMI history**, perform **calculations**, and manage overall **health metrics**. The backend uses **NestJS**, **GraphQL**, and **REST API**, with **OAuth authentication**, **JWT**, **cookies**, **CORS**, and **rate limiting**. The frontend is built with **Next.js**, and the full project is hosted on **Vercel**.  
+
+- [Frontend Repository](https://github.com/StanleyBack-dev/frontend-fitpulse)  
+- [Backend Repository](https://github.com/StanleyBack-dev/backend-fitpulse)
 
 ---
 
