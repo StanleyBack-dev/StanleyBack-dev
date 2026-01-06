@@ -41,10 +41,7 @@ When I'm not coding, you can find me diving into sports stats, playing guitar or
 
 ### 📊 **GitHub Stats**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StanleyBack-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyBack-dev&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Stanley Rodrigues's GitHub chart](https://ghchart.rshah.org/StanleyBack-dev)
 
 ---
 
